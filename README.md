@@ -1,4 +1,4 @@
-Siap sob! Berikut adalah versi lengkap **README.md** yang mencakup seluruh **langkah-langkah membuat backend CodeIgniter 4 untuk studi kasus Rumah Sakit**, dari awal (install) hingga endpoint API. Tinggal **copy-paste ke GitHub**:
+**Langkah-langkah membuat backend CodeIgniter 4 untuk studi kasus Rumah Sakit**
 
 ---
 
@@ -236,7 +236,6 @@ backend_rumahsakit/
 ## 💡 Catatan Tambahan
 
 * Pastikan MySQL berjalan saat uji API
-* Tambahkan middleware atau auth jika ingin proteksi API
 * Gunakan `php spark routes` untuk melihat route aktif
 
 ---
@@ -244,13 +243,5 @@ backend_rumahsakit/
 ## 👨‍💻 Dibuat oleh
 
 **Prih Diantono Abda’u, M.Kom**
-UAS Praktikum Pemrograman Berbasis Framework – Genap 2023/2024
+UAS Praktikum Pemrograman Berbasis Framework – Genap 2024/2025
 Politeknik Negeri Cilacap
-
-```
-
----
-
-Silakan langsung salin seluruh isi tersebut ke file `README.md` di repo GitHub Anda.  
-Jika sobat ingin sekalian saya buatin ZIP project siap pakai + SQL-nya tinggal bilang aja.
-```
